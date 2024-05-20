@@ -216,6 +216,7 @@ main  .img_principal {
     object-fit: cover;
     border-radius: 50px;
     background: radial-gradient(circle, rgb(57, 3, 46) 0%, rgb(0, 0, 0) 100%);
+    transition: 0.5s;
 }
 
 .galeria img:hover {
